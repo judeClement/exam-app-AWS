@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ffad1a7e.css",
-    "main.js": "/static/js/main.f8072ddc.js",
+    "main.css": "/static/css/main.77f4250b.css",
+    "main.js": "/static/js/main.837773a7.js",
     "static/js/453.d855a71b.chunk.js": "/static/js/453.d855a71b.chunk.js",
     "static/media/adminlog.gif": "/static/media/adminlog.51284f408e51e7c2946a.gif",
     "static/media/studentlogin09.gif": "/static/media/studentlogin09.836cb67a3f79f322ff46.gif",
@@ -10,12 +10,12 @@
     "static/media/login.png": "/static/media/login.5faf09a7795d28bf5a2b.png",
     "static/media/LOGO_ICTAK.png": "/static/media/LOGO_ICTAK.cf73745ca2b64c502337.png",
     "index.html": "/index.html",
-    "main.ffad1a7e.css.map": "/static/css/main.ffad1a7e.css.map",
-    "main.f8072ddc.js.map": "/static/js/main.f8072ddc.js.map",
+    "main.77f4250b.css.map": "/static/css/main.77f4250b.css.map",
+    "main.837773a7.js.map": "/static/js/main.837773a7.js.map",
     "453.d855a71b.chunk.js.map": "/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffad1a7e.css",
-    "static/js/main.f8072ddc.js"
+    "static/css/main.77f4250b.css",
+    "static/js/main.837773a7.js"
   ]
 }
